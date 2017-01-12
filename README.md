@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Spencer Phillips's Data Science Portfolio
 
-You can use the [editor on GitHub](https://github.com/tallspencer/STA141B/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Applied Statistics and Economics double major at the University of California, Davis who is going to graduate in June 2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is a collection of my data science projects that I have worked on throughout my time at UC Davis. All of the code is going to be in the R or the Python languages.
 
 ### Markdown
 
